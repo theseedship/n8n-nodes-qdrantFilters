@@ -3,6 +3,7 @@
 This is an n8n community node that introduces a new Qdrant node for your n8n workflows.
 
 The new Qdrant node includes the filter functionality, which is used to refine and specify the conditions for retrieving points from the vector database.
+(https://www.npmjs.com/package/@seed-ship/n8n-nodes-qdrant_filters)
 
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
 
