@@ -1,8 +1,8 @@
 # n8n-nodes-qdrantFilters
 
-This is an n8n community node. It lets you use a new Qdrant node in your n8n workflows.
+This is an n8n community node that introduces a new Qdrant node for your n8n workflows.
 
-This new Qdrant node implements the filter functionality. The filter functionality is used to refine and specify the conditions under which points are retrieved from the vector database.
+The new Qdrant node includes the filter functionality, which is used to refine and specify the conditions for retrieving points from the vector database.
 
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
 
@@ -67,6 +67,9 @@ You have three options:
 - `must`: Only documents that meet these conditions will be included.
 - `should`: Documents that meet these conditions will be preferred, but it's not mandatory.
 - `must_not`: Documents that meet these conditions will be excluded.
+
+### Contributors
+[@Alexis-Arduca](https://github.com/Alexis-Arduca) [@Muvikx](https://github.com/Muvikx) [@nicolas-geysse](https://github.com/nicolas-geysse)
 
 ## Resources
 
