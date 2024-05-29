@@ -41,7 +41,7 @@ const loadFields: INodeProperties[] = [
 				name: 'filter',
 				type: 'json',
 				default: '',
-				description: 'JSON filter to apply when searching the collection.'
+				description: 'JSON filter to apply when searching the collection'
 			},
 		],
     },
@@ -60,7 +60,7 @@ const retrieveFields: INodeProperties[] = [
 				name: 'filter',
 				type: 'json',
 				default: '',
-				description: 'JSON filter to apply when searching the collection.'
+				description: 'JSON filter to apply when searching the collection'
 			},
 		],
     },

@@ -1,15 +1,19 @@
 {
-  "name": "n8n-nodes-qtest",
+  "name": "@seed-ship/n8n-nodes-qdrant_filters",
   "version": "0.1.0",
-  "description": "feur",
+  "description": "Qdrant node for n8n",
   "keywords": [
     "n8n-community-node-package"
   ],
   "license": "MIT",
   "homepage": "",
   "author": {
-    "name": "feur",
+    "name": "Alexis Arduca",
     "email": "arducaalexis@icloud.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theseedship/n8n-nodes-qdrantFilters.git"
   },
   "main": "index.js",
   "scripts": {
